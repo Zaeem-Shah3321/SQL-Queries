@@ -1,0 +1,136 @@
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe.config
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\bin\Debug\DesktopApp.pdb
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.AssemblyReference.cache
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.AddStudent.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Admin.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Form1.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Form2.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.pdb
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.RemoveStudent.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.ViewStudents.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Teacher.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Attendence.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.RemoveAssessment.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Addassesment.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Addclo.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.UpdateClo.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.ViewAssessment.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Viewclo.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Addrubric.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.RemoveRubric.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.AddAssComp.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.UpdAssCom.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Studentresult.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.AddRubricsLevel.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.ClassAttendence.resources
+D:\Asad work\semester 2\DB Lab\Mid project\DesktopApp\DesktopApp\obj\Debug\DesktopApp.StudentAttendance.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\bin\Debug\DesktopApp.exe.config
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\bin\Debug\DesktopApp.exe
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\bin\Debug\DesktopApp.pdb
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.csproj.AssemblyReference.cache
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.AddAssComp.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.Addassesment.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.Addclo.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.Addrubric.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.AddRubricsLevel.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.AddStudent.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.Attendence.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.ClassAttendence.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.Form1.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.Form2.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.RemoveAssessment.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.RemoveRubric.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.RemoveStudent.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.StudentAttendance.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.Studentresult.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.UpdAssCom.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.UpdateClo.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.ViewAssessment.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.Viewclo.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.ViewStudents.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.exe
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.pdb
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.Dashboard.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.ManageStudents.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.ManageAttendance.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.ManageAssesments.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.ManageRubrics.resources
+C:\Users\MyPC\Desktop\Desktop\DesktopApp\obj\Debug\DesktopApp.ManageCLO.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\bin\Debug\DesktopApp.exe.config
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\bin\Debug\DesktopApp.exe
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\bin\Debug\DesktopApp.pdb
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.csproj.AssemblyReference.cache
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.AddAssComp.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.Addassesment.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.Addclo.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.Addrubric.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.AddRubricsLevel.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.AddStudent.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.Attendence.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.ClassAttendence.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.Dashboard.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.Form1.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.Form2.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.ManageAssesments.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.ManageAttendance.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.ManageCLO.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.ManageRubrics.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.ManageStudents.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.RemoveAssessment.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.RemoveRubric.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.RemoveStudent.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.StudentAttendance.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.Studentresult.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.UpdAssCom.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.UpdateClo.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.ViewAssessment.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.Viewclo.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.ViewStudents.resources
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.exe
+C:\Users\MyPC\Desktop\Final Project\DesktopApp\obj\Debug\DesktopApp.pdb
+C:\Users\MyPC\Desktop\Try\DesktopApp\bin\Debug\DesktopApp.exe.config
+C:\Users\MyPC\Desktop\Try\DesktopApp\bin\Debug\DesktopApp.exe
+C:\Users\MyPC\Desktop\Try\DesktopApp\bin\Debug\DesktopApp.pdb
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.csproj.AssemblyReference.cache
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.AddAssComp.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.Addassesment.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.Addclo.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.Addrubric.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.AddRubricsLevel.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.AddStudent.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.Attendence.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.ClassAttendence.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.Dashboard.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.Form1.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.Form2.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.ManageAssesments.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.ManageAttendance.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.ManageCLO.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.ManageRubrics.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.ManageStudents.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.RemoveAssessment.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.RemoveRubric.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.RemoveStudent.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.StudentAttendance.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.Studentresult.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.UpdAssCom.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.UpdateClo.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.ViewAssessment.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.Viewclo.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.ViewStudents.resources
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.exe
+C:\Users\MyPC\Desktop\Try\DesktopApp\obj\Debug\DesktopApp.pdb
